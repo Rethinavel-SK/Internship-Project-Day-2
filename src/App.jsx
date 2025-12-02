@@ -1,9 +1,9 @@
 import "./App.css";
-import HelloWorldComponent from "./hello-world/hello-world-component";
+import StudentRegister from "./Student-Registeration/Form.jsx";
 
 function App() {
   return (
-    <HelloWorldComponent/>
+    <StudentRegister/>
   );
 }
 
